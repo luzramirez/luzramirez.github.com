@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Luz Ramirez Portfolio</title>
+	<link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />
+	
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="header">
+
+      <div id="nav">
+        <ul>
+          <li class="home"><a href="index.html">Home</a></li>
+          <li><a href="aboutme.html">About Me</a></li>
+          <li><a href="resume.html">Resume</a></li>
+          <li><a href="editorial.html">Editorial</a></li>
+          <li><a href="copywriting.html">Copywriting</a></li>
+          <li><a href="eventplanning.html">Event Planning</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="contactme.html">Contact Me </a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="content">
+      <div class="left-col">
+        <div id="welcome">
+          <h2>Event Planning</h2>
+          <p>For the past two and a half years I have been planning events for the Rochester Institute of Technology as an employee of the College Activites Board. It is  here where I've grown into the successful person I am now. Through the many events that I've planned and managed I have learned how to properly manage large scale events, budgeting and the in and outs of planning events. </p>
+<br /><br />
+
+
+
+ <b> Major Concerts </b>
+          <p>In the past two years I have managed and worked six major concerts for RIT.  I have been in charge of ticket taking and being the personal assistant for several artists. Below are some examples. </p>
+          <br />  <br /> 
+
+
+<div class="gallerycontainer">
+<center>
+<a class="thumbnail" href="#thumb"><img src="thumb/7.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/7.jpg" /><br />
+Paramore</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="thumb/8.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/8.jpg" /><br />
+Jimmy Eat World</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="thumb/11.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/11.jpg" /><br />Jimmy Fallon</span></a>
+
+<br />
+
+<a class="thumbnail" href="#thumb"><img src="thumb/12.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/12.jpg" /><br />Yung Joc & Cartel</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="thumb/13.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/13.jpg" /><br />Nas</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="thumb/18.jpg" width="200px" height="166px" border="0" /><span><img src="thumb/18.jpg" /><br />Kathy Griffin</span></a>
+
+</center>
+<br /><br /><br />
+
+
+
+
+ <b> Other Events </b>
+          <p>Throughout the last two years I have planned over 60 smaller scale events for the RIT campus. These events have ranged from game shows, to out door concerts to ghost hunts. Below are some examples.</p>
+          <br />  <br /> 
+
+
+<div class="gallerycontainer">
+<center>
+<a class="thumbnail" href="#thumb"><img src="cab/6.jpg" width="200px" height="166px" border="0" /><span><img src="cab/6.jpg" /><br />
+Break Dance Battle</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="cab/10.jpg" width="200px" height="166px" border="0" /><span><img src="cab/10.jpg" /><br />
+Concert w/ Fireworks</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="cab/20.jpg" width="200px" height="166px" border="0" /><span><img src="cab/20.jpg" /><br />
+Ultimate DoStuff4Stuff</span></a>
+
+<br />
+
+<a class="thumbnail" href="#thumb"><img src="cab/4.jpg" width="200px" height="166px" border="0" /><span><img src="cab/4.jpg" /><br />
+Senior Night</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="cab/21.jpg" width="200px" height="166px" border="0" /><span><img src="cab/21.jpg" /><br />
+Ice Disco</span></a>
+
+<a class="thumbnail" href="#thumb"><img src="cab/22.jpg" width="200px" height="166px" border="0" /><span><img src="cab/22.jpg" /><br />
+Open Mic Night</span></a>
+
+</center>
+
+
+
+
+
+</div>
+
+<br /><br /><br />
+
+
+
+
+
+
+
+          
+          
+          
+          
+          
+        </div>
+
+</div>
+
+      <div class="clear"> </div>
+      <div id="later">
+        <div class="left-col">
+          <div class="box" id="later-b1"></div>
+          
+          
+          <div class="clear"> </div>
+        </div>
+        
+        <div class="clear"> </div>
+      </div>                                    
+    </div>
+    <div class="clear" id="footc"> </div>
+    <div id="footer">
+      Copyright Luz Ramirez. All rights reserved
+    </div>
+  </div>                                      
+</body>                                       
+</html>                                       
